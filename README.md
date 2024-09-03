@@ -16,3 +16,4 @@ HTML: For structuring the web page.
 CSS: For styling the page and charts.
 JavaScript: For handling file input, data processing, and chart generation.
 Chart.js: A powerful library for creating dynamic and interactive charts.
+![Screenshot_3-9-2024_142441_127 0 0 1](https://github.com/user-attachments/assets/542cf11c-dc0b-418e-b054-7e18395c6768)
